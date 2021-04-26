@@ -1,0 +1,13 @@
+{
+    "pg_details":{
+        "host"      : "192.168.0.103",
+        "port"      :  5432,
+        "database"  : "dem",
+        "user"      : "postgres",
+        "password"  : "example"
+    },
+    "mongo_details":{
+            "host"      : "mongodb://localhost",
+            "port"      :  27017
+    }
+}
